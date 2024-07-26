@@ -1,0 +1,9 @@
+torch>=2.3.0
+transformers>=4.37.2
+pandas>=2.2.0
+lightning>=2.2.3
+torchcross>=0.0.6
+medimeta>=0.0.6
+torchvision>=0.18.0
+optuna>=3.6.1
+open-clip-torch==2.24.0
